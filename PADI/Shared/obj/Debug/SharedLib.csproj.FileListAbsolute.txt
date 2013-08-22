@@ -1,0 +1,5 @@
+E:\EMDC\IST\Acads\PADI\Project\PADI\Shared\bin\Debug\SharedLib.dll
+E:\EMDC\IST\Acads\PADI\Project\PADI\Shared\bin\Debug\SharedLib.pdb
+E:\EMDC\IST\Acads\PADI\Project\PADI\Shared\obj\Debug\ResolveAssemblyReference.cache
+E:\EMDC\IST\Acads\PADI\Project\PADI\Shared\obj\Debug\SharedLib.dll
+E:\EMDC\IST\Acads\PADI\Project\PADI\Shared\obj\Debug\SharedLib.pdb

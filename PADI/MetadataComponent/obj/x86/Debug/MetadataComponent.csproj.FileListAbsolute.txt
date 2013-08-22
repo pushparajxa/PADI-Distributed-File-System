@@ -1,0 +1,7 @@
+E:\EMDC\IST\Acads\PADI\Project\PADI\MetadataComponent\bin\Debug\MetadataComponent.exe
+E:\EMDC\IST\Acads\PADI\Project\PADI\MetadataComponent\bin\Debug\MetadataComponent.pdb
+E:\EMDC\IST\Acads\PADI\Project\PADI\MetadataComponent\bin\Debug\SharedLib.dll
+E:\EMDC\IST\Acads\PADI\Project\PADI\MetadataComponent\bin\Debug\SharedLib.pdb
+E:\EMDC\IST\Acads\PADI\Project\PADI\MetadataComponent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\EMDC\IST\Acads\PADI\Project\PADI\MetadataComponent\obj\x86\Debug\MetadataComponent.exe
+E:\EMDC\IST\Acads\PADI\Project\PADI\MetadataComponent\obj\x86\Debug\MetadataComponent.pdb

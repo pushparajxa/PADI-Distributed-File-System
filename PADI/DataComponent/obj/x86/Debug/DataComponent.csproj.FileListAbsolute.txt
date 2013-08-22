@@ -1,0 +1,7 @@
+E:\EMDC\IST\Acads\PADI\Project\PADI\DataComponent\bin\Debug\DataComponent.exe
+E:\EMDC\IST\Acads\PADI\Project\PADI\DataComponent\bin\Debug\DataComponent.pdb
+E:\EMDC\IST\Acads\PADI\Project\PADI\DataComponent\bin\Debug\SharedLib.dll
+E:\EMDC\IST\Acads\PADI\Project\PADI\DataComponent\bin\Debug\SharedLib.pdb
+E:\EMDC\IST\Acads\PADI\Project\PADI\DataComponent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\EMDC\IST\Acads\PADI\Project\PADI\DataComponent\obj\x86\Debug\DataComponent.exe
+E:\EMDC\IST\Acads\PADI\Project\PADI\DataComponent\obj\x86\Debug\DataComponent.pdb
